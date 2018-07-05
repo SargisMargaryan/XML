@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<peoples>
+	<people>
+		<id>1</id>
+		<name>Aram</name>
+		<surname>Avetisyan</surname>
+		<age>24</age>
+		<city>Yerevan</city>
+   </people>
+	<people>
+		<id>2</id>
+		<name>Sara</name>
+		<surname>Tadevosyan</surname>
+		<age>22</age>
+		<city>Yerevan</city>
+	</people>
+	
+     <people>
+     	<id>4</id>
+	    <name>Karen</name>
+	    <surname>Manasyan</surname>
+	    <age>23</age>
+	    <city>Moscow</city>
+    </people>
+    <people>
+    	<id>5</id>
+	    <name>Sipan</name>
+	    <surname>Margaryan</surname>
+	    <age>27</age>
+	    <city>Yerevan</city>
+    </people>
+
+</peoples>
